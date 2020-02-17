@@ -1,2 +1,2 @@
-# hacettepe.github.io
+# hacettepe
 Hacettepe Ders Kayit
